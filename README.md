@@ -36,3 +36,4 @@ my_button = Button(display, position, normal, depressed, hover, message, action)
 Additional attributes with defaults:
 -fontcolor = (0,0,0)
 -font = "Helvetica"
+
